@@ -13,8 +13,6 @@ En mi fuero interno se lo agradezco. Por un lado me entretiene, queria avanzar y
 
 Mohamed me pregunta si estoy molesto y le digo que no, que solo estoy triste.
 
-- [ ] le muestro a Silvia el `.gitignore`
-
 ```bash
 py -m venv env             # esto crea la carpeta env para motorizar la vitualizacion
 ./env/Scripts/activate.bat # esto arranca la vitualizacion. prompt: (env)
@@ -22,3 +20,4 @@ py -m venv env             # esto crea la carpeta env para motorizar la vitualiz
 (env) pip install cherrypy
 (env)
 ```
+- [ ] le muestro a Silvia el `.gitignore`
