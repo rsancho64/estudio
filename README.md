@@ -20,4 +20,4 @@ py -m venv env             # esto crea la carpeta env para motorizar la vitualiz
 (env) pip install cherrypy
 (env)
 ```
-- [ ] le muestro a Silvia el `.gitignore`
+- [X] le muestro a Silvia el `.gitignore`
